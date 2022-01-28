@@ -1,0 +1,1316 @@
+[
+    {
+        "path": "general",
+        "seoContent": {
+            "title": "General",
+            "description": ""
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "General"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "General",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1bsjL9-YrKXrKM2V89TX-13joUIYDrI_f?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "training",
+        "seoContent": {
+            "title": "Training Academics"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Training Academies"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Training Academies",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1ULi2ElnyeRt0ddKj9ZDUVRIlvZQvoosH?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "education",
+        "seoContent": {
+            "title": "Education"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Dept. of Education"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Dept. of Education",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/16JchyxhlGrJp8j9ZLDPlEMKqVIsbUmfN?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "health",
+        "seoContent": {
+            "title": "Health"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Dept. of Health"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Dept. of Health",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1HyvM6ly9J5hJFxnQUeBDgOnAcpXoyiiX?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "sports",
+        "seoContent": {
+            "title": "Sports"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Dept. of Sports"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Dept. of Sports",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1ZuDDyqaJ4tpu336LNGXz9MvVUauUdgg1?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "public",
+        "seoContent": {
+            "title": "Public Sector Units / Banks"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Public Sector Units / Banks"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Public Sector Units / Banks",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1uyxtsj8p8tCC0ryE6yYpLx1Hy88BdWen?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "economic",
+        "seoContent": {
+            "title": "Economic Empowerment"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Economic Empowerment"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Economic Empowerment",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1AzDld1dAIM4ZuNDm7DfTlfhBJcl4bA0R?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "green",
+        "seoContent": {
+            "title": "Green Initiatives"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Green initiatives"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Green initiatives",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1y1d3xmWxaCMIDs2aJjNkFzpYjDiG9zoX?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "yoga",
+        "seoContent": {
+            "title": "Yoga"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Yoga"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Yoga",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/19VRBb1Rxn25ZMfRX3_YoX3epFICUE-Vl?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+
+    {
+        "path": "brochures",
+        "seoContent": {
+            "title": "Brochures"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Brochures"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Brochures",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1fpfrLz1hljyhyxbrJ_Dq4Tba7Epg_rHW?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "banners",
+        "seoContent": {
+            "title": "Banners"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Banners"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Banners",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1N8Ya4-MJA8ig7vNZ63SGcjpnLeFn04Nv?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "promotional-videos",
+        "seoContent": {
+            "title": "Promotional Videos"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Promotional Videos"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Promotional Videos",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1worBB-69M-1w8Uy8tJHNCbUFYzYrt0FL?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "promotional-ppts",
+        "seoContent": {
+            "title": "Promotional PPTs"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Promotional PPTs"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Promotional PPTs",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1ChBpJsPBoa7Cf3_29PdS0ywKoxO7SUtJ?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "proposal-samples",
+        "seoContent": {
+            "title": "Proposal Samples"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Proposal Samples"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Proposal Samples",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1V05j2Sz1YrRFPTqSaDlVuE86dWQDPvUv?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "proposal-templates",
+        "seoContent": {
+            "title": "Proposal Templates"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Proposal Templates"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Proposal Templates",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1QbW48ZOR2BKP2kckzB3Y1u9LqNqKli-w?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "orders",
+        "seoContent": {
+            "title": "Orders Received"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Pictures"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Orders Received",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1tKKDkJs2LU-mAwG5QPMRwdIM-So_Se29?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+
+    {
+        "path": "pictures",
+        "seoContent": {
+            "title": "Pictures"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Pictures"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Pictures",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1tKKDkJs2LU-mAwG5QPMRwdIM-So_Se29?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "videos",
+        "seoContent": {
+            "title": "Orders Received"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Pictures"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Orders Received",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1tKKDkJs2LU-mAwG5QPMRwdIM-So_Se29?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "appreciation",
+        "seoContent": {
+            "title": "Letters of Appreciation"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Letters of Appreciation"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Letters of Appreciation",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1FgFz1cCvkirxgCFWl7wSVyzH77yINqHF?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "recommendation",
+        "seoContent": {
+            "title": "Letters of Recommendation"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Letters of Recommendation"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Letters of Recommendation",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/18Ts3at740hzAPZdqXtlxQD5-J5gFHm-M?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "case-studies",
+        "seoContent": {
+            "title": "Case Studies"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Case Studies"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Case Studies",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1gLErK77HQffhW9e5je1VujyDx6E96MU7?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+
+    {
+        "path": "heartful-presenter-eng",
+        "seoContent": {
+            "title": "Heartful Presenter"
+        },
+        "textContent": {
+            "header": "The Guidebook to Heartful Presenter (English)",
+            "paragraph": "If you would like to attend a Heartful Presenter Training or would like to know more about the content, please contact at: hpb.india@heartfulness.org"
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Heartful Presenter"
+                },
+                {
+                    "field": "document",
+                    "label": "PDF/Video"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Heartful Presenter Guidebook",
+                   "document": {
+                       "label": "View/Download",
+                       "value": "https://drive.google.com/file/d/1-M-vMq3isFuQAaIF7bPJlfHQLIVttn32/view"
+                   }
+                },
+                {
+                   "id": 2,
+                   "name": "Heartful Presentation Skills to get your message across",
+                   "document": {
+                       "label": "Play",
+                       "value": "https://vimeo.com/271610833"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "guided-script-eng",
+        "seoContent": {
+            "title": "Guided Scripts"
+        },
+        "textContent": {
+            "header": "Guided Script (English)",
+            "paragraph": "Heartfulness offers guided videos, audios and scripts for various techniques such as Relaxation, Meditation, Cleaning, and Prayer - You may access and download the latest guided scripts here, and the same can be shared with seekers as necessary."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Guided Scripts"
+                },
+                {
+                    "field": "document",
+                    "label": "PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Relaxation Script",
+                   "document": {
+                       "label": "View/Download",
+                       "value": "https://drive.google.com/file/d/1lfWVfgFC0IyLx9zvD2WnOAke5rZxf5bI/view?usp=sharing"
+                   }
+                },
+                {
+                   "id": 2,
+                   "name": "Meditation Script",
+                   "document": {
+                       "label": "View/Download",
+                       "value": "https://drive.google.com/file/d/1qhlfS8qwyXGWDUJrrx-scuBaS1lFV21V/view?usp=sharing"
+                   }
+                },
+                {
+                   "id": 3,
+                   "name": "Cleaning Script",
+                   "document": {
+                       "label": "View/Download",
+                       "value": "https://drive.google.com/file/d/1WBBN2HOdKGruhAWmc_2Xd1seXooMAH1r/view?usp=sharing"
+                   }
+                },
+                {
+                   "id": 4,
+                   "name": "Prayer Script",
+                   "document": {
+                       "label": "View/Download",
+                       "value": "https://drive.google.com/file/d/13qXSAVjzRF2Kf4mCqyJlrvLQxlLIGlco/view?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "hfn-practice-videos-eng",
+        "seoContent": {
+            "title": "Guided Practice Audios & Videos"
+        },
+        "textContent": {
+            "header": "Heartfulness Practice, Audio & Video (English)",
+            "paragraph": "Heartfulness has developed videos that illustrate the various techniques such as Relaxation, Meditation, Cleaning and Prayer. Please feel free to download and share these videos with Heartfulness seekers. For the convenience of sharing these large videos over WhatsApp, they have been uploaded on YouTube, so that you only have to share the link to the video."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Guided Practice Audios & Videos"
+                },
+                {
+                    "field": "document",
+                    "label": "Audio & Video"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Relaxation Male Audio",
+                   "document": {
+                       "label": "Play/Download",
+                       "value": "https://drive.google.com/file/d/1yt2ogWPUmiBriavPIRn_JQbE-vIOb-cr/view"
+                   }
+                },
+                {
+                   "id": 2,
+                   "name": "Relaxation Female Audio",
+                   "document": {
+                       "label": "Play/Download",
+                       "value": "https://drive.google.com/file/d/1OcxP_2RZF911EohN9nC698dtJqSNrU4r/view"
+                   }
+                },
+                {
+                   "id": 3,
+                   "name": "Relaxation Video",
+                   "document": {
+                       "label": "Play/Download",
+                       "value": "https://youtu.be/SgapKdDys08"
+                   }
+                },
+                {
+                   "id": 4,
+                   "name": "Meditation Video",
+                   "document": {
+                       "label": "Play/Download",
+                       "value": "https://youtu.be/uItx3Ym2L40"
+                   }
+                },
+                {
+                   "id": 5,
+                   "name": "Cleaning Video",
+                   "document": {
+                       "label": "Play/Download",
+                       "value": "https://youtu.be/NiorIbEuNCQ"
+                   }
+                },
+                {
+                   "id": 6,
+                   "name": "Prayer Video",
+                   "document": {
+                       "label": "Play/Download",
+                       "value": "https://youtu.be/6KrbdvLYCL8"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "master-classes-eng",
+        "seoContent": {
+            "title": "Master Class"
+        },
+        "textContent": {
+            "header": "Masterclasses (English)",
+            "paragraph": "The Masterclasses are conducted by Daaji in three videos: Day 1 - Relax and Meditate, Day 2- Clean and Simplify and Day 3 - Connect with your Inner Self. If you would like to conduct the Heartfulness Session using the Masterclass videos please download and run them for the sessions across three days. If a seeker is interested in trying it out on their own you can just share the link to the videos on YouTube."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Masterclasses"
+                },
+                {
+                    "field": "document",
+                    "label": "Video"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Dept. of Sports",
+                   "document": {
+                       "label": "Day 1 - Relax and Meditate",
+                       "value": "https://youtu.be/-bGeWAKKckc"
+                   }
+                },
+                {
+                   "id": 2,
+                   "name": "Day 2- Clean and Simplify",
+                   "document": {
+                       "label": "Play/Download",
+                       "value": "https://youtu.be/XrBojZA8YbA"
+                   }
+                },
+                {
+                   "id": 3,
+                   "name": "Day 3 - Connect with your Inner Self",
+                   "document": {
+                       "label": "Play/Download",
+                       "value": "https://youtu.be/LE_AI1Vb4C0"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "heartful-presenter-hin",
+        "seoContent": {
+            "title": "Heartful Presenter"
+        },
+        "textContent": {
+            "header": "The Guidebook to Heartful Presenter",
+            "paragraph": "As of now Heartful Presenter is only available in English language, we will update you as soon as it's get available in Hindi."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Heartful Presenter"
+                },
+                {
+                    "field": "document",
+                    "label": "PDF/Video"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Heartful Presenter Guidebook",
+                   "document": {
+                       "label": "View/Download",
+                       "value": "https://drive.google.com/file/d/1-M-vMq3isFuQAaIF7bPJlfHQLIVttn32/view"
+                   }
+                },
+                {
+                   "id": 2,
+                   "name": "Heartful Presentation Skills to get your message across",
+                   "document": {
+                       "label": "Play",
+                       "value": "https://vimeo.com/271610833"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "guided-script-hin",
+        "seoContent": {
+            "title": "Guided Scripts"
+        },
+        "textContent": {
+            "header": "Guided Script (Hindi)",
+            "paragraph": "Heartfulness offers guided videos, audios and scripts for various techniques such as Relaxation, Meditation, Cleaning, and Prayer - You may access and download the latest guided scripts here, and the same can be shared with seekers as necessary."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Guided Scripts"
+                },
+                {
+                    "field": "document",
+                    "label": "PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Relaxation Script",
+                   "document": {
+                       "label": "View/Download",
+                       "value": "https://drive.google.com/file/d/1fFB-g4rLd5KqhpbAfl4FmzX5MayLwXC1/view"
+                   }
+                },
+                {
+                   "id": 2,
+                   "name": "Meditation Script",
+                   "document": {
+                       "label": "View/Download",
+                       "value": "https://drive.google.com/file/d/1UwvfcvdtVRRM4F_IAkBtNVnf7wBY_Bcz/view"
+                   }
+                },
+                {
+                   "id": 3,
+                   "name": "Meditation Text Script",
+                   "document": {
+                       "label": "View/Download",
+                       "value": "https://drive.google.com/file/d/1xPuwi7NtRy8SSEaiLJ1Qz7U_VWHt942j/view"
+                   }
+                },
+                {
+                   "id": 4,
+                   "name": "Cleaning Script",
+                   "document": {
+                       "label": "View/Download",
+                       "value": "https://drive.google.com/open?id=1mWkGMGFL77xalXz1yI4hRyWgNY7c1qC_"
+                   }
+                },
+                {
+                   "id": 5,
+                   "name": "Prayer Script",
+                   "document": {
+                       "label": "View/Download",
+                       "value": "https://drive.google.com/file/d/1lnF3u0erWis7F3rx9PrQ7axOURnKLIhY/view"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "hfn-practice-videos-hin",
+        "seoContent": {
+            "title": "Heartfulness Practice, Audio & Video"
+        },
+        "textContent": {
+            "header": "Heartfulness Practice, Audio & Video (Hindi)",
+            "paragraph": "Heartfulness has developed videos that illustrate the various techniques such as Relaxation, Meditation, Cleaning and Prayer. Please feel free to download and share these videos with Heartfulness seekers. For convenience of sharing these large videos over WhatsApp, they have been uploaded on YouTube, so that you only have to share the link to the video."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Guided Practice Audios & Videos"
+                },
+                {
+                    "field": "document",
+                    "label": "Audio & Video"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Relaxation Male Audio",
+                   "document": {
+                       "label": "Play/Download",
+                       "value": "https://drive.google.com/file/d/1i06yB96zLMZgk9TJd4IcYCdfvKxRR0B_/view"
+                   }
+                },
+                {
+                   "id": 2,
+                   "name": "Relaxation and Meditation Audio by Daaji",
+                   "document": {
+                       "label": "Play/Download",
+                       "value": "https://drive.google.com/file/d/1qSlo407sEh7lzWNxFzDyT9nNsiKk74uT/view"
+                   }
+                },
+                {
+                   "id": 3,
+                   "name": "Relaxation Video",
+                   "document": {
+                       "label": "Play/Download",
+                       "value": "https://youtu.be/INYwaKbHEWE"
+                   }
+                },
+                {
+                   "id": 4,
+                   "name": "Meditation Video",
+                   "document": {
+                       "label": "Play/Download",
+                       "value": "https://youtu.be/148q48cIqCY"
+                   }
+                },
+                {
+                   "id": 5,
+                   "name": "Cleaning Video",
+                   "document": {
+                       "label": "Play/Download",
+                       "value": "https://youtu.be/G0jWg5c_zN4"
+                   }
+                },
+                {
+                   "id": 6,
+                   "name": "Prayer Video",
+                   "document": {
+                       "label": "Play/Download",
+                       "value": "https://youtu.be/tRKGhbBD4AI"
+                   }
+                }
+            ]
+        }
+    },
+    {
+        "path": "master-classes-hin",
+        "seoContent": {
+            "title": "Master Class"
+        },
+        "textContent": {
+            "header": "Masterclasses (Hindi)",
+            "paragraph": "The Masterclasses are conducted by Daaji in three videos: Day 1 - Relax and Meditate, Day 2- Clean and Simplify and Day 3 - Connect with your Inner Self. If you would like to conduct the Heartfulness Session using the Masterclass videos please download and run them for the sessions across three days. If a seeker is interested in trying it out on their own you can just share the link to the videos on YouTube."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Master Classes"
+                },
+                {
+                    "field": "document",
+                    "label": "Video"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Day 1 - Relax and Meditate",
+                   "document": {
+                       "label": "Play/Download",
+                       "value": "https://youtu.be/4t1QgK9jC-4"
+                   }
+                },
+                {
+                   "id": 2,
+                   "name": "Day 2- Clean and Simplify",
+                   "document": {
+                       "label": "Play/Download",
+                       "value": "https://youtu.be/gErZOpjXw1I"
+                   }
+                },
+                {
+                   "id": 3,
+                   "name": "Day 3 - Connect with your Inner Self",
+                   "document": {
+                       "label": "Play/Download",
+                       "value": "https://youtu.be/HE0rOXeE4Ck"
+                   }
+                }
+            ]
+        }
+    },
+    
+    {
+        "path": "ongoing-events",
+        "seoContent": {
+            "title": "Ongoing Events"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Ongoing Events"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Ongoing Events",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1XIV1Axiej2Bm8Gia-AP9uAkLTGnmj1gp?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    
+    {
+        "path": "program",
+        "seoContent": {
+            "title": "National Programs"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "National programs"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "National programs",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1rCaAIP411tbPkukGrXIRUvgLBrrPpmR6?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    
+    {
+        "path": "yoga",
+        "seoContent": {
+            "title": "Yoga"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Yoga"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Yoga",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/19VRBb1Rxn25ZMfRX3_YoX3epFICUE-Vl?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    
+    {
+        "path": "impact",
+        "seoContent": {
+            "title": "Impact"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Impact"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Impact",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1v1L6DR6rznk-z_Y52ePCcINrD0DZaLgO?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    
+    {
+        "path": "training",
+        "seoContent": {
+            "title": "Training Academics"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "Training Academies"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "Training Academies",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1ULi2ElnyeRt0ddKj9ZDUVRIlvZQvoosH?usp=sharing"
+                   }
+                }
+            ]
+        }
+    },
+    
+    {
+        "path": "people",
+        "seoContent": {
+            "title": "People"
+        },
+        "textContent": {
+            "header": "",
+            "paragraph": "All content in this section is created for the external audience, to request for initiating Heartfulness engagements. While the videos, brochures may be readily shared with interested organizations, the Handout, 'Request Letter' and 'Memorandum of Understanding' may be tweaked to your needs, and shared with your contact information."
+        },
+        "tableContent": {
+            "columns": [
+                {
+                    "field": "name",
+                    "label": "People"
+                },
+                {
+                    "field": "document",
+                    "label": "Video/PDF"
+                }
+            ],
+            "rows": [
+                {
+                   "id": 1,
+                   "name": "People",
+                   "document": {
+                       "label": "Download",
+                       "value": "https://drive.google.com/drive/folders/1ZJM36W2-mRVC8HzwdCMDioVwgsD3QxYw?usp=sharing"
+                   }
+                }
+            ]
+        }
+    }
+]

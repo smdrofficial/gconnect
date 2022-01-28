@@ -1,0 +1,190 @@
+[
+    {
+        "name": "Home",
+        "path": "/"
+    },
+    {
+        "name": "Offerings",
+        "subMenu": [
+            {
+                "name": "General",
+                "path": "/general"
+            },
+            {
+                "name": "Training Academics",
+                "path": "/training"
+            },
+            {
+                "name": "Department of Education",
+                "path": "/education"
+            },
+            {
+                "name": "Department of Health and Welfare",
+                "path": "/health"
+            },
+            {
+                "name": "Department of Sports",
+                "path": "/sports"
+            },
+            {
+                "name": "Public Sector Units / Banks",
+                "path": "/public"
+            },
+            {
+                "name": "Economic Empowerment",
+                "path": "/economic"
+            },
+            {
+                "name": "Green Initiatives",
+                "path": "/green"
+            },
+            {
+                "name": "Yoga",
+                "path": "/yoga"
+            }
+        ]
+    },
+    {
+        "name": "Collateral",
+        "subMenu": [
+            {
+                "name": "Brochures",
+                "path": "/brochures"
+            },
+            {
+                "name": "Banners",
+                "path": "/banners"
+            },
+            {
+                "name": "Promotional Videos",
+                "path": "/promotional-videos"
+            },
+            {
+                "name": "Promotional PPTs",
+                "path": "/promotional-ppts"
+            },
+            {
+                "name": "Proposal Samples",
+                "path": "/proposal-samples"
+            },
+            {
+                "name": "Proposal Templates",
+                "path": "/proposal-templates"
+            },
+            {
+                "name": "Orders Received",
+                "path": "/orders"
+            }
+        ]
+    },
+    {
+        "name": "Testimonials",
+        "subMenu": [
+            {
+                "name": "Pictures",
+                "path": "/pictures"
+            },
+            {
+                "name": "Videos",
+                "path": "/videos"
+            },
+            {
+                "name": "Letters of Appreciation / Recognition",
+                "path": "/appreciation"
+            },
+            {
+                "name": "Letters of Recommendation",
+                "path": "/recommendation"
+            },
+            {
+                "name": "Case Studies",
+                "path": "/case-studies"
+            }
+        ]
+    },
+    {
+        "name": "Content",
+        "subMenu": [
+            {
+                "name": "Heartful Presenter (Eng)",
+                "path": "/heartful-presenter-eng"
+            },
+            {
+                "name": "Guided Script (Eng)",
+                "path": "/guided-script-eng"
+            },
+            {
+                "name": "HFN Practice Videos (Eng)",
+                "path": "/hfn-practice-videos-eng"
+            },
+            {
+                "name": "Master Classes (Eng)",
+                "path": "/master-classes-eng"
+            },
+            {
+                "name": "Training Modules (Eng)",
+                "path": "/training-toolkit-eng"
+            },
+            {
+                "name": "Heartful Presenter (Hindi)",
+                "path": "/heartful-presenter-hin"
+            },
+            {
+                "name": "Guided Script (Hindi)",
+                "path": "/guided-script-hin"
+            },
+            {
+                "name": "HFN Practice Videos (Hindi)",
+                "path": "/hfn-practice-videos-hin"
+            },
+            {
+                "name": "Master Classes (Hindi)",
+                "path": "/master-classes-hin"
+            },
+            {
+                "name": "Training Modules (Hindi)",
+                "path": "/training-toolkit-hin"
+            }
+        ]
+    },
+    {
+        "name": "Events",
+        "subMenu": [
+            {
+                "name": "Ongoing Events",
+                "path": "/ongoing-events"
+            }
+        ]
+    },
+    {
+        "name": "National Programs",
+        "subMenu": [
+            {
+                "name": "Programs",
+                "path": "/program"
+            }
+        ]
+    },
+    {
+        "name": "Impact",
+        "subMenu": [
+            {
+                "name": "Impact",
+                "path": "/impact"
+            }
+        ]
+    },
+    {
+        "name": "Training",
+        "path": "/training"
+    },
+    {
+        "name": "Contacts",
+        "subMenu": [
+            {
+                "name": "People",
+                "path": "/people"
+            }
+        ]
+    }
+]

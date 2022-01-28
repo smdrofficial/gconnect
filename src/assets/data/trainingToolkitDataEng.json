@@ -1,0 +1,484 @@
+{
+    "hfnModules": {
+        "title": "Heartfulness Modules (English)",
+        "columns": [
+            {
+                "field": "module",
+                "label": "Modules"
+            },
+            {
+                "field": "video",
+                "label": "Self-Training Video"
+            },
+            {
+                "field": "ppt",
+                "label": "PPT"
+            },
+            {
+                "field": "material",
+                "label": "Supplementary Material"
+            }
+        ],
+        "rows": [
+            {
+                "id": 1,
+                "module": "Introduction to Meditation",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/file/d/1Peb7h3IZ-WA0qqHdLBJulCk2j4w2Cchr/view"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1MvV44d4cEHaQJggZDzieqcdMFJ2QBfxf"
+                },
+                "material": {
+                    "labels": [ "Language_of_God" ],
+                    "values": [ "https://drive.google.com/open?id=11A_J310SsmrNIKZi5YuAAIGedrm71iRD" ]
+                }
+            },
+            {
+                "id": 2,
+                "module": "Deepening the Practice",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=14MYQuOwj9_SAPLVAIxIptRJVCS8nVfRf"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1UYYfWtA7oWOH0IMeepKf3bRCL1FIrWgf"
+                },
+                "material": {
+                    "labels": [ "Samurai_and_the_Fly" ],
+                    "values": [ "https://drive.google.com/open?id=1VScPzozkQVSIqmcFCWExRixcLrIxWr1x" ]
+                }
+            },
+            {
+                "id": 3,
+                "module": "HFN Day 3",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=13KcZrLaRcVo0bWhjLHjP-aU8aB9bOyor"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1aI9xUKf_3kJg--qG9aOODVJ7txC6db8M"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 4,
+                "module": "HFN Cleaning",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1mP1No5o1qVM9jzT--iP6zMn7KghhRwb6"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1Cs9UpV4jU7eSTFEDO4aTFfL0Ugsxdld1"
+                },
+                "material": {
+                    "labels": [ "Cleaning_Method" ],
+                    "values": [ "https://drive.google.com/open?id=1t5KJ3UEVPhMAagCC9UbNFhwIoZQnGIdS" ]
+                }
+            },
+            {
+                "id": 5,
+                "module": "What is HFN Meditation",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1qxXRDhTqEXRZ1rK-C5YBMK7y_4JcW_rA"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1CuFnuBmIxHCYBaFFHsL9VwoBlsdgqFv1"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 6,
+                "module": "Recap and Bedtime Prayer",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/file/d/13KcZrLaRcVo0bWhjLHjP-aU8aB9bOyor/view"
+                },
+                "ppt": {
+                    "label": "View/Download",
+                    "value": "https://drive.google.com/file/d/1eRv0c5K9Ods20aJlk9fT52IIyKcHwg9X/view?usp=sharing"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 7,
+                "module": "Thought Experiment",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1xWob2wfzL8dNj4DdfGdT_WVjGu1_Uesi"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1LQoLh8Aobqdg9ad27R-VG8NfcupI08Un"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            }
+        ]
+    },    
+    "performanceModules": {
+        "title": "Fundamentals of Performance",
+        "columns": [
+            {
+                "field": "module",
+                "label": "Modules"
+            },
+            {
+                "field": "video",
+                "label": "Self-Training Video"
+            },
+            {
+                "field": "ppt",
+                "label": "PPT"
+            },
+            {
+                "field": "material",
+                "label": "Supplementary Material"
+            }
+        ],
+        "rows": [
+            {
+                "id": 1,
+                "module": "Self Mastery for Excellence",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1iQ8y2hsx5N77j9zu7LwFYEyJklR9yqEZ"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1LJOzoEa3o1hLm1MIisLwZygIQ9X-co5Z"
+                },
+                "material": {
+                    "labels": [ "Robert Greene: \"Mastery\" | Talks at Google" ],
+                    "values": [ "https://youtu.be/J4v_34RRCeE" ]
+                }
+            },
+            {
+                "id": 2,
+                "module": "Developing Focus",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1sh3hv3Cj-sjcLlYjiTIZq_5B6ThCv13H"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1-SSZ7Lo__iEs7Xpuq-b0jK_NRu87GhyQ"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 3,
+                "module": "Work Life Balance",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1bIzuYUSE_ZSm3nhC_BS3EXt9zHSZLTyd"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1F59UpqbM4z9A-GAxj09950UGBNHTkdIO"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 4,
+                "module": "Time Management",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1o4v_R94vtbO0kLnfUi5iseSkmIVSnH5h"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1Ouzua5b2kS9likLiPzAdaD0s432qQ8jR"
+                },
+                "material": {
+                    "labels": [ "The_Jar_of_Time", "Time Management And Productivity", "Heartfulness Webinar - Time Management" ],
+                    "values": [ "https://drive.google.com/open?id=1_TXW8L5q3c-lpnCODnRitIWtXq1K16Sl", "https://vimeo.com/220128066", "https://vimeo.com/220114584" ]
+                }
+            },
+            {
+                "id": 5,
+                "module": "Time and Self",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1wfLe_AHkVInWUrn4ch5SwoaMXCF7bPZ0"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1k4MvbUas8r-0zwmWFKWvAn-6qTMqGvbr"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 6,
+                "module": "Ambition vs. Aspiration",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1_-6HmD8DB2K-qVZtuyrQHVH9h1gzLB-W"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1sAkvZit6op-Q-5-pTXg0L51CdiAOZo8J"
+                },
+                "material": {
+                    "labels": [ "Heartfulness Webinar - Ambition vs Aspiration" ],
+                    "values": [ "https://vimeo.com/220137447" ]
+                }
+            },
+            {
+                "id": 7,
+                "module": "Team Work",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1aNskYIupBe99qkiO8nf5e0BcEkJHduyD"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1evz-mz21u5SZ767Z2BrP8LtN5GfZtcUH"
+                },
+                "material": {
+                    "labels": [ "Mobil_Pitstop", "The_Tree", "Turtle_and_Rabbit" ],
+                    "values": [ "https://drive.google.com/open?id=1Q2EOu3soEbaTi46xo2c7DCO_szrbKIAz", "https://drive.google.com/open?id=1Je4N6d9xu6cpCgiS3Gvn3zcPhFu8aOUU", "https://drive.google.com/open?id=1W3TZEM_pffrNmOAQ11RtDZJxdfU1FEpD" ]
+                }
+            },
+            {
+                "id": 8,
+                "module": "Decision Making",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1DNAT1X9clyvj2T2J-t40MCgDIxkZz0Bn"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1fu5pyT8H3mrYP7THEVz4DslUsZ0eNQGZ"
+                },
+                "material": {
+                    "labels": [ "Heartfulness Webinar - Decision Making In Corporates" ],
+                    "values": [ "https://vimeo.com/220114279" ]
+                }
+            },
+            {
+                "id": 9,
+                "module": "Goal Setting",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1AICMlF1lOZNlx5LNUEeA6eQSoSuArYTl"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1rku93YFjTAUjcWK7JaKWMrHp_KX-gZ8H    "
+                },
+                "material": {
+                    "labels": [ "Need_to_set_goals" ],
+                    "values": [ "https://drive.google.com/open?id=1bO4dpYpIXZB4mgzvtwTQv958e2pZ9nwN" ]
+                }
+            },
+            {
+                "id": 10,
+                "module": "Listening Skills",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1VR0czHRzc2CW6lC_KyujBcRfceDvnZ60"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1I-XVW_TFejMWbai0cjSjO3RCwDazdVDK"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            }
+        ]
+    },
+    "lifeSkillModules": {
+        "title": "Life Skills",
+        "columns": [
+            {
+                "field": "module",
+                "label": "Modules"
+            },
+            {
+                "field": "video",
+                "label": "Self-Training Video"
+            },
+            {
+                "field": "ppt",
+                "label": "PPT"
+            },
+            {
+                "field": "material",
+                "label": "Supplementary Material"
+            }
+        ],
+        "rows": [
+            {
+                "id": 1,
+                "module": "Reaction vs. Response",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=17ikaJYP5TN1Iw7acKrtzAs1fjGAltrjs"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/file/d/1-CyLs9zOW2U9SvG4OzqqdW2rnX_I6a6C/view"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 2,
+                "module": "Stress-free Life",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1RIJNQt2fn9WhvxMjzBLXP0KFU5jxjMzB"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1zeIfolDayrNfy7jhMTSzMi_N4F5bR32z"
+                },
+                "material": {
+                    "labels": [ "Make_stress_your_friend" ],
+                    "values": [ "https://drive.google.com/open?id=1cmGw_7K_NlQxO_gUe1gVVmWlSC0-uBd7" ]
+                }
+            },
+            {
+                "id": 3,
+                "module": "Inner and Outer Balance",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1MmsbJlWPgsa2d_7Zpvqr2xzfFrIlTxSy"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1PEjO7ZnwMjaP8n5V-9ob7dc9OrBaFDDO"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 4,
+                "module": "Making Resolutions Work",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1hidQvRr6UTZRmv32vBnIKzTys3Pu1wHr"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1ja6K3sjxPD0VX0WL_-4ie9M6ELibBh44"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 5,
+                "module": "Sense of Gratitude",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=19HNOKKkvLXgQNQxyCqkuscX6UmNQg747"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1AJK9NQm1rAAq4UgYcsPvxnI90bBfMmm3"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 6,
+                "module": "Creative Thinking",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1nuux81_pt8lAO5kjIL1DJrqVPkNI5zNY"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1VQzbioaGrA06nIdfht0kQDrEWVrc_6xo"
+                },
+                "material": {
+                    "labels": [ "9_Dots_Creative_Thinking", "Accord_Creative_Thinking", "Robert Greene: \"Mastery\" | Talks at Google" ],
+                    "values": [ "https://drive.google.com/open?id=1aZQzg0FFxwzak7JXxizPITvbW3g5DZ9b", "https://drive.google.com/open?id=1eAS6KPSrd2uZ9cCD8ASP7nH3TNXH3FMi", "https://youtu.be/J4v_34RRCeE" ]
+                }
+            },
+            {
+                "id": 7,
+                "module": "Values and Attitudes",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=18c_d7uz7V15W0qwJkzRebos1WxzISCXp"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1Es4hLZc3D3YJtdl63EmIlHsBuGcTYwrx"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 8,
+                "module": "Heartful Relationship",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1p4ZQZ7XWNm3dW9ZFPaAk-HREQocLafzq"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1r5PozyQUTVfTb_MVwSXihoxal3x6IQK6"
+                },
+                "material": {
+                    "labels": [ "Give and Take", "Role of Heart in creativity and inspiration" ],
+                    "values": [ "https://drive.google.com/file/d/10wFbFwrb55JQz9LisN3G8P1q4xQqzIRe/view?usp=sharing", "https://vimeo.com/244161221" ]
+                }
+            },
+            {
+                "id": 9,
+                "module": "Meditation and Health",
+                "video": null,
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1DhiWjw0dJRxzVOwCycmyiUcbYsEqxYA1"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            }
+        ]
+    }
+}

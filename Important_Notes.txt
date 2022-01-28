@@ -1,0 +1,11 @@
+URL: https://github.com/smdrofficial/gconnect
+Git Repository: https://github.com/smdrofficial/gconnect.git
+Production branch: master
+ 
+
+Production Website:
+
+    https://gconnect-lqw0nwjax-smdrofficial.vercel.app
+    https://gconnect-drab.vercel.app
+    https://gconnect-smdrofficial.vercel.app
+    https://gconnect-git-master-smdrofficial.vercel.app/

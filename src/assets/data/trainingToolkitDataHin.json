@@ -1,0 +1,388 @@
+{
+    "hfnModules": {
+        "title": "Heartfulness Modules (Hindi)",
+        "columns": [
+            {
+                "field": "module",
+                "label": "Modules"
+            },
+            {
+                "field": "video",
+                "label": "Self-Training Video"
+            },
+            {
+                "field": "ppt",
+                "label": "PPT"
+            },
+            {
+                "field": "material",
+                "label": "Supplementary Material"
+            }
+        ],
+        "rows": [
+            {
+                "id": 1,
+                "module": "Introduction to Meditation",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=18WxSsT0Dg1PT_lJCDnyOeO0OyinfH4fK"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1zTWvn0OUWcyNqJ_658ioRGNy7mCzv091"
+                },
+                "material": {
+                    "labels": [ "Language_of_God" ],
+                    "values": [ "https://drive.google.com/open?id=11A_J310SsmrNIKZi5YuAAIGedrm71iRD" ]
+                }
+            },
+            {
+                "id": 2,
+                "module": "Deepening the Practice",
+                "video": null,
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=14jnOuvXbyi3EG_clsF2GoHdYRrlhHE9H"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 3,
+                "module": "HFN Day 3",
+                "video": null,
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1lo2PIW8oopmgDLfE7eXn1FNtuJIzapgr"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 4,
+                "module": "HFN Cleaning",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1W0N_eQH-6obr7hORB6C8_xyb_i4iNiW2"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1XIyTOUI4AJMRHy-2foJJmSaLiJFocSWL"
+                },
+                "material": {
+                    "labels": [ "Cleaning_Method" ],
+                    "values": [ "https://drive.google.com/open?id=1j6Ix9-aMmzpSLu6HIQJJ6gGJeFPBl8If" ]
+                }
+            },
+            {
+                "id": 5,
+                "module": "Heartfulness Ek Parichay -Rishi Ranjan",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1lwWFldIHER077xWGCbiPlyj1pLFlh9C8"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1PbG7Orxbs6LrIYGzM-fQThTAIyxGVx4l"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 6,
+                "module": "Dhyan: Uchhatar Chetna ki Dasha",
+                "video": null,
+                "ppt": {
+                    "label": "View/Download",
+                    "value": "https://drive.google.com/open?id=1WcBH_vx6nXRAe-WA1H5cmJwuSObeVdmW"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 7,
+                "module": "Prarthna: Ek Divya Judaav",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1wpgNW_uWskFjzkmSdaVk8dgKwUjB9kLF"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1EiCy_jD1K8pT-qYXYHZtWTmVQUihlI9i"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            }
+        ]
+    },
+
+    "performanceModules": {
+        "title": "Fundamentals of Performance",
+        "columns": [
+            {
+                "field": "module",
+                "label": "Modules"
+            },
+            {
+                "field": "video",
+                "label": "Self-Training Video"
+            },
+            {
+                "field": "ppt",
+                "label": "PPT"
+            },
+            {
+                "field": "material",
+                "label": "Supplementary Material"
+            }
+        ],
+        "rows": [
+            {
+                "id": 1,
+                "module": "Self Mastery for Excellence",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=10px5dBBTEPK5ZhkybHmGELN1BPBOAkku"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1SpH4UFCR7JLMaIUN0NQn_BEDiW3M2jRM"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 2,
+                "module": "Developing Focus",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=186YKLPeQ2p1jewHua0e2Ax8xpdC2cVFH"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1VCOaufkWIetWJlfyTQEKLMFnC9PC5VAn"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 3,
+                "module": "Work Life Balance",
+                "video": null,
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=12cMEDoSLheleFHQ5Ie42jKMMU70kW4RV"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 4,
+                "module": "Time Management",
+                "video": null,
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=132LoqW5V58RVq3-hwMMVxkt-ex6p2mtZ"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            }
+        ]
+    },
+
+    "lifeSkillModules": {
+        "title": "Life Skills",
+        "columns": [
+            {
+                "field": "module",
+                "label": "Modules"
+            },
+            {
+                "field": "video",
+                "label": "Self-Training Video"
+            },
+            {
+                "field": "ppt",
+                "label": "PPT"
+            },
+            {
+                "field": "material",
+                "label": "Supplementary Material"
+            }
+        ],
+        "rows": [
+            {
+                "id": 1,
+                "module": "Reaction vs. Response",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=11ocvYmZoI06DHM7ZaCzHoTsdc8aKRBCr"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1Mrwc4LsMz84NG7omVpXGr_7Pa63uj38N"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 2,
+                "module": "Stress-free Life",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1FCd88yQzMf2Xc_kWx_R-fAO0JGw5pnKC"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1sfEHpv4WCAKWaGeztTuKlfdULwPV3ITy"
+                },
+                "material": {
+                    "labels": [ "Make_stress_your_friend" ],
+                    "values": [ "https://drive.google.com/open?id=1cmGw_7K_NlQxO_gUe1gVVmWlSC0-uBd7"]
+                }
+            },
+            {
+                "id": 3,
+                "module": "Inner and Outer Balance",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1OCcjzEXjSLn9xGFlxMbPmKxxytAHGiYx"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1GeMOSz5lsRm9rVrTp0okLSHydQuPeKrt"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 4,
+                "module": "Making Resolutions Work",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1X4WF9v69ohF_Fc6NmN2DUW2lEBGKohOW"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1F5F7ZikZ4N8gLqjX0yKKyxkHFMH7AM72"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 5,
+                "module": "Anubhav Shakti ka Vikas",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1yZGt7o8i0BYBafE3v2PzD1IJMdDTM0bv"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1jQI_L_v37AXUcpykATgqdL8wj72tASQJ"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 6,
+                "module": "Svekaryata Ek Saccha Jeevan",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1wnctOUfgISPsc-DJnOcU6VO1P6tZgnkC"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1W_zTnrSeX7uVpnvw38tq1ANf2cbCLZqc"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 7,
+                "module": "Jo Chunoge Wah Banoge",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1a0TMX6-IMlI3fySqMbIQFdrtGEkFNvcI"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1XCfddFLrkHqNyDp7RRww6IGSUUlA8Fpx"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 8,
+                "module": "Jeevan Ek Shantulan",
+                "video": {
+                    "label": "Play",
+                    "value": "https://drive.google.com/open?id=1pX6wOIMxgKCYRLY1XGCQZWldtgdSvkaU"
+                },
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=14_hTU1pzHjsEUo2L-wMgrCd79wje0C5b"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 10,
+                "module": "Gusse ka Saamna",
+                "video": null,
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=19QucDViiZdlXmd5Ql-gjLxwP7zv1KBiy"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            },
+            {
+                "id": 9,
+                "module": "Atma Praveenta",
+                "video": null,
+                "ppt": {
+                    "label": "Download",
+                    "value": "https://drive.google.com/open?id=1UFoKCbfRNEeRWw_UDFsunGY4In7-auQb"
+                },
+                "material": {
+                    "labels": [],
+                    "values": []
+                }
+            }
+        ]
+    }
+}
